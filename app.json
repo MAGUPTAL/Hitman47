@@ -1,7 +1,7 @@
 {
   "name": "Hitman47",
   "description": "A WhatsApp Bot written in TypeScript using Baileys.",
-  "keywords": [
+  "keywords": [ !h
     "bot",
     "whatsapp",
     "whatsapp-bot",
@@ -12,16 +12,16 @@
   "repository": "https://github.com/Dkhitman3/Hitman47.git",
   "success_url": "/",
   "env": {
-    "BOT_NAME": {
+    "BOT_NAME": {MAGUPTA BOT
         "description": "Name of your bot"
     },
-    "PREFIX": {
+    "PREFIX": {!
       "description": "Prefix of your bot"
     },
     "SESSION": {
       "description": "A string for the session to be classified and to get access to the server endpoints"
     },
-    "MODS": {
+    "MODS": {MAGUPTALEBES 
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required": false
     },
