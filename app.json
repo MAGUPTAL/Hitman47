@@ -1,10 +1,10 @@
 {
-  "name": "Hitman47",
+  "name"MAGUPTA",
   "description": "A WhatsApp Bot written in TypeScript using Baileys.",
   "keywords": [
     "bot",
     "whatsapp",
-    "whatsapp-bot",
+    "whatsapp-bot",+26775047530
     "whatsapp-anime-bot"
   ],
   "logo": "https://raw.githubusercontent.com/Dkhitman3/Hitman47/master/assets/images/hitman.png",
@@ -12,23 +12,23 @@
   "repository": "https://github.com/Dkhitman3/Hitman47.git",
   "success_url": "/",
   "env": {
-    "BOT_NAME": {
+    "BOT_NAME": {MAGUPTA BOT
         "description": "Name of your bot"
-    },
-    "PREFIX": {
+    },MAGUPTA BOT
+    "PREFIX": {!
       "description": "Prefix of your bot"
     },
     "SESSION": {
       "description": "A string for the session to be classified and to get access to the server endpoints"
     },
-    "MODS": {
+    "MODS": {MAGUPTA BOT
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "required": false
+      "required": TRUE
     },
     "MONGO_URI": {
       "description": "A secret String for Mongodb Connection.(Required)"
     },
-    "CHAT_BOT_URL": {
+    "CHAT_BOT_URL": {+26775047530
       "description": "Your API key from Brainshop"
     }
   },
